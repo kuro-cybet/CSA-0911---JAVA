@@ -1,0 +1,2 @@
+Compilation command: javac -d out src/q5/CurrencyConverter.java src/q1/FeeWindow.java src/q6/EventRegistrationApp.java src/q3/LibrarySearchScreen.java src/q2/AppointmentDesk.java src/q4/DrawingPad.java
+Exit code: 0

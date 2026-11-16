@@ -1,0 +1,16 @@
+Compilation: PASS
+
+
+Selected demo outputs:
+
+[q3.Attendance]
+Unique students: 2
+Same ID, different name: 1
+Equal objects have equal hashes: true
+
+[q5.LeaderboardDemo]
+[Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]
+Second data set: [Gamma(10,5), Alpha(10,2), Beta(10,2), Eagles(9,6), Bisons(9,4), Panthers(9,4), Delta(8,9), Cobras(6,1)]
+
+[q6.Triage]
+Meena(S1) Kumar(S1) Lata(S2) Ravi(S3) John(S3) Asha(S5)

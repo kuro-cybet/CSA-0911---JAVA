@@ -1,0 +1,42 @@
+Task01.BusPassFileDesign
+Exit code: 0
+Find BP01: Pass[passId=BP01, regNo=192311001, name=Arun|Kumar, route=12, stop=Main Gate, validity=2027-03-31, amount=4500.0]
+Route 7: 1 pass(es)
+Delimiter in name preserved: Arun|Kumar
+
+
+Task02.LineCounter
+Exit code: 0
+Unbuffered lines: 4
+Buffered lines: 4
+
+
+Task04.Hostel
+Exit code: 0
+Resident loaded: Arun / 192311001
+Password after deserialization: null
+
+
+Task06.PassStore
+Exit code: 0
+[P1003, 192311003, Divya, 7, 3800.0]
+null
+
+
+Task06.BufferingBenchmark
+Exit code: 0
+File bytes: 6488890
+Lines: 200000 / 200000
+Unbuffered ms: 1650.666
+Buffered ms: 60.337
+
+
+Task06.BufferingBenchmark
+1 MiB (1048576 bytes): lines=16644/16644; unbuffered=279.961 ms; buffered=22.624 ms
+10 MiB (10485760 bytes): lines=166440/166440; unbuffered=2632.549 ms; buffered=62.755 ms
+50 MiB (52428800 bytes): lines=832203/832203; unbuffered=13686.887 ms; buffered=315.299 ms
+
+Task06.FileStoreGrowthBenchmark
+1000 records: 9.207 ms; found=true
+10000 records: 13.759 ms; found=true
+100000 records: 65.288 ms; found=true

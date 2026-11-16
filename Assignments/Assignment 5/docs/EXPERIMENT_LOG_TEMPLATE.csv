@@ -1,0 +1,12 @@
+Task,Experiment,Dataset/Input,Measured result,Expected result,Interpretation,Machine/DB details
+A2/B1,Unbuffered line count,1 MB,,,,
+A2/B1,Buffered line count,1 MB,,,,
+B1,Buffered line count,10 MB,,,,
+B1,Buffered line count,50 MB,,,,
+B1,Find pass,1000 records,,,,
+B1,Find pass,10000 records,,,,
+B1,Find pass,100000 records,,,,
+B3,Statement insert,1000 rows,,,,
+B3,PreparedStatement insert,1000 rows,,,,
+B3,Batch insert,1000 rows,,,,
+B3,Auto-commit vs transaction,forced halfway failure,,,,

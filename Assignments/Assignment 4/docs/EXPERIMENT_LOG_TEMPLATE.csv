@@ -1,0 +1,8 @@
+Task,Test case,Input,Expected result,Actual result,Date,Student initials
+1,Valid payment,REG1001 and 500,Success with receipt,,,
+1,Invalid amount,REG1001 and abc,Validation message,,,
+2,Change department,Cardiology,Doctor list refreshes,,,
+3,Resize window,500x300 then 1000x700,Results region expands,,,
+4,Repaint test,Click then minimise/restore,All dots remain,,,
+5,Enter key,1000 and USD,Converted amount shown,,,
+6,Duplicate registration,Same register number and event,Second registration rejected,,,

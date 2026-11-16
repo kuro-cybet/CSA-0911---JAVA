@@ -1,0 +1,22 @@
+Compilation: PASS
+
+
+Selected demo outputs:
+
+[q2.StorageDemo]
+Saved answer01.pdf
+Error: Could not store answer02.pdf
+Cause: Disk quota exceeded
+
+Propagation examples:
+ExamWindowClosedException: Exam window has closed.
+
+[q5.SeatBooking]
+Seats sold: 10
+
+[q6.TokenCounter]
+Sum of tokens collected: 210 (expected 210)
+
+[q6.DeadlockSafeTransferDemo]
+Final balances: 1000, 1000
+Total preserved: 2000

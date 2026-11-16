@@ -1,0 +1,6 @@
+Static validation performed in this build:
+- All Java source files compile with the installed JDK.
+- Task06.PassStore reproduces the assignment's expected output exactly.
+- Task01, Task02, Task04 and Task06 file/serialization demos were executed.
+- MySQL-dependent tasks compile, but were not executed because no user database credentials/server were supplied.
+- Actual timing tables for 1 MB/10 MB/50 MB, 1k/10k/100k records, and JDBC batch tests must be collected on the student's machine and server.
